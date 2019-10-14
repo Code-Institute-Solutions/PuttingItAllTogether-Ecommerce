@@ -1,4 +1,4 @@
-Django~=1.11.19
+Django~=1.11.17
 Pillow~=4.3.0
 chardet~=2.2.1
 colorama~=0.2.5
